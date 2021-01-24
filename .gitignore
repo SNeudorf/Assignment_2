@@ -1,0 +1,5 @@
+# Python Script
+__pycache__/
+
+# Mac OS X
+.DS_Store
